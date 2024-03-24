@@ -37,9 +37,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;
 }
-.header-logo-text:hover {
-    color: #404bbf;
-}
+
 .header-menu-list {
 }
 .header-menu-item {
@@ -64,6 +62,9 @@ color: #2e2f42;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+}
+.header-address-item:hover{
+    color: #404bbf;
 }
 /*----------- HERO ---------------*/
 .hero {
