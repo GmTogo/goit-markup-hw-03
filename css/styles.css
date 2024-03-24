@@ -118,6 +118,7 @@ background-color: #4D5AE5;
 }
 /*----------- GALLERY ---------------*/
 .gallery {
+    background-color: #F4F4FD
 }
 .gallery-lict {
 }
@@ -125,13 +126,15 @@ background-color: #4D5AE5;
 }
 .gallery-img {
 }
-.gallery-subtitle {
+.gallery-item-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
+    background-color: #FFFFFF;
 }
 .gallery-item-title {
     font-size: 16px;
