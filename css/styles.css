@@ -123,25 +123,25 @@ background-color: #4D5AE5;
 .gallery-lict {
 }
 .gallery-item {
+    background: #fff
 }
 .gallery-img {
 }
-.gallery-item-subtitle {
+.gallery-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize;
     color: #2e2f42;
-    background-color: #FFFFFF;
-}
+    }
 .gallery-item-title {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+
 }
 /*----------- PORTFOLIO ---------------*/
 .portfolio {
