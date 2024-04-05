@@ -26,7 +26,20 @@ address{
 }
 img{
    display: block; 
-}
+   }
+   .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
 .made-title-text{
     font-weight: 700;
 font-size: 36px;
@@ -220,7 +233,12 @@ margin-bottom: 32px;
 .portfolio {
     padding-top: 120px;
     padding-bottom: 120px;
-
+}
+.portfolio-container{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
 }
 .made-title-text{
     margin-bottom: 72px;
