@@ -89,6 +89,8 @@ display: flex;
 gap: 40px;
 margin-left: 76px;
 margin-right: 332px;
+padding-top: 24px;
+padding-bottom: 24px;
 }
 .header-menu-item {
 }
@@ -109,6 +111,8 @@ color: #2e2f42;
 .header-address-list {
     display: flex;
     gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
     }
 .header-address-item {
 }
