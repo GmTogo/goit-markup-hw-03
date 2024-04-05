@@ -273,6 +273,9 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 margin-bottom: 16px;
+display: inline-block;
+padding-top: 100px;
+padding-bottom: 100px;
 }
 .footer-logo-text {
     font-family: "Raleway", sans-serif;
@@ -288,7 +291,4 @@ margin-bottom: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    display: inline-block;
-    padding-top: 100px;
-    padding-bottom: 100px;
 }
