@@ -107,12 +107,13 @@ padding-bottom: 24px;
 }
 .header-address {
     font-style: normal;
+    display: flex;
+    gap: 40px;
     }
 .header-address-list {
 }
 .header-address-item {
-    display: flex;
-    gap: 40px;
+
 }
 .header-address-link{
     font-size: 16px;
