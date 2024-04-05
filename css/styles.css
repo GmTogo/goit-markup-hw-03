@@ -110,8 +110,7 @@ padding-bottom: 24px;
     }
 .header-address-list {
     display: flex;
-    gap: 40px;
-}
+    gap: 40px;}
 .header-address-item {
 }
 .header-address-link{
@@ -129,8 +128,8 @@ padding-bottom: 24px;
 /*----------- HERO ---------------*/
 .hero {
     background: #2e2f42;
-padding-top: 120px;
-padding-bottom: 120px;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 .hero-title {
 font-weight: 700;
@@ -141,8 +140,6 @@ text-align: center;
 color: #fff;
 max-width: 496px;
 margin: 0 auto;
-padding-top: 188px;
-padding-bottom: 188px;
 }
 
 .hero-btn-main {
