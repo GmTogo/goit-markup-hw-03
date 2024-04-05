@@ -109,9 +109,10 @@ padding-bottom: 24px;
     font-style: normal;
     }
 .header-address-list {
-    display: flex;
-    gap: 40px;}
+}
 .header-address-item {
+    display: flex;
+    gap: 40px;
 }
 .header-address-link{
     font-size: 16px;
@@ -119,8 +120,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 padding-top: 24px;
-padding-bottom: 24px;   
-}
+padding-bottom: 24px; 
+ }
 .header-address-link:hover,
 .header-address-link:focus{
     color: #404bbf;
@@ -195,7 +196,7 @@ gap: 24px;
 }
 .made-title-text{
     margin-bottom: 72px;
-}
+    }
 .gallery-lict {
     display: flex;
     gap: 24px;
