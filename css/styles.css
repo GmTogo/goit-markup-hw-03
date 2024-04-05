@@ -27,14 +27,6 @@ address{
 img{
    display: block; 
 }
-.visually-hidden {
-    clip-path: inset(50%);
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    white-space: nowrap;
-    width: 1px;
-  }
 .made-title-text{
     font-weight: 700;
 font-size: 36px;
@@ -107,10 +99,10 @@ padding-bottom: 24px;
 }
 .header-address {
     font-style: normal;
-    display: flex;
-    gap: 40px;
-    }
+}
 .header-address-list {
+    display: flex;
+    gap: 40px; 
 }
 .header-address-item {
 
