@@ -209,6 +209,10 @@ gap: 24px;
 .gallery-item {
     background: #fff
 }
+.gallery-item-container{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
 .gallery-img {
     margin-bottom: 32px;
 }
@@ -219,13 +223,13 @@ gap: 24px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-bottom: 8px;
+    margin-bottom: 8px
     }
 .gallery-item-title {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
+    text-align: center
     color: #434455;
 margin-bottom: 32px;
 }
