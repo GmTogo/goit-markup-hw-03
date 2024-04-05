@@ -89,8 +89,6 @@ display: flex;
 gap: 40px;
 margin-left: 76px;
 margin-right: 332px;
-padding-top: 24px;
-padding-bottom: 24px;
 }
 .header-menu-item {
 }
@@ -100,6 +98,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
+padding-top: 24px;
+padding-bottom: 24px;
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
@@ -111,16 +111,16 @@ color: #2e2f42;
 .header-address-list {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    }
+}
 .header-address-item {
 }
 .header-address-link{
     font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;    
+color: #434455;
+padding-top: 24px;
+padding-bottom: 24px;   
 }
 .header-address-link:hover,
 .header-address-link:focus{
